@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Hanad 👋🏾
 
-<!--
-**hanad29/hanad29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer from London 📍🇬🇧
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 19-year-old aspiring software engineer with a deep interest for problem-solving and technology. Front-end development allows me to combine these passions, crafting user-friendly applications.
+
+🔭 Currently honing my skills in front-end technologies
+🌱 Learning and exploring HTML, CSS, JavaScript, and modern frameworks
+
+Languages and Tools:
+html5 css3 javascript
