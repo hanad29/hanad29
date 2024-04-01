@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Hanad</h1>
 <h3 align="center">Aspiring Full Stack Developer from London 📍🇬🇧</h3>
 
-- 🔭 I’m currently working on **Currently honing my skills in front-end technologies**
+- 🔭 I’m currently working on currently honing my skills in front-end technologies
 
-- 🌱 I’m currently learning **Learning and exploring HTML, CSS, JavaScript, and modern frameworks**
+- 🌱 I’m currently learning learning and exploring HTML, CSS, JavaScript, and modern frameworks
 
 - 📫 How to reach me **hanadisa05@gmail.com**
 
